@@ -1,3 +1,4 @@
+google.com, pub-8745997677709636, DIRECT, f08c47fec0942fa0
 #Facebook Ownership Confirmation
 facebook.com, 1172510836663538, RESELLER, с3e20eee3f780d68
 #Facebook Ownership Confirmation
