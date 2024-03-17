@@ -1,5 +1,6 @@
 ## Yodo1 app-ads.txt - Updated at: 2023-05-18
 facebook.com, 117510114111268, DIRECT, c3e20eee3f780d68
+facebook.com, 117510114111268, RESELLER, c3e20eee3f780d68
 google.com, pub-8878604524374632, DIRECT, f08c47fec0942fa0
 odeeo.io, 121132902, DIRECT, 36cfd73091d5c3fc
 targetspot.com, 231, DIRECT, feb28ed826dcf532
