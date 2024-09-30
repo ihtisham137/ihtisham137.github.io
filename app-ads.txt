@@ -1,17 +1,50 @@
 google.com, pub-8745997677709636, DIRECT, f08c47fec0942fa0
+aceinmobi.com, 9e311c7a68e94888aac7fbb4272381e2, RESELLER
+adform.com, 716, RESELLER
+admanmedia.com, 2153, RESELLER
+appnexus.com, 15629, RESELLER
+connekt.ai, 1732945743, RESELLER
+contextweb.com, 563217, RESELLER, 89ff185a4c4e857c
+contextweb.com, 563265, RESELLER, 89ff185a4c4e857c
+eliteappgrade.com, 494223, RESELLER
+eskimi.com, 2020000663, RESELLER
+ignitemediatech.com, pub_11115, RESELLER
+krushmedia.com, ajxf6r585a9m6catvk, RESELLER
+lacunads.com, lcb555b3bc8667a09a, RESELLER
+lijit.com, 465542, RESELLER, fafdf38b16bf6b2b
+lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
+lijit.com, 489963, RESELLER, fafdf38b16bf6b2b
+lijit.com, 491737, RESELLER, fafdf38b16bf6b2b
+lijit.com, 503707, RESELLER, fafdf38b16bf6b2b
+mars.media, 1010442, RESELLER, 8624339f102fb076
+onetag.com, 8668c16092f01e8, RESELLER
+onlinemediasolutions.com, 23120, RESELLER
+openx.com, 540861995, RESELLER, 6a698e2ec38604c6
+orangeclickmedia.com, c-1181, RESELLER
+outbrain.com, 00ab8f68679cc060c8bbc1035e70030614, RESELLER
+playdigo.com, 1965, RESELLER, 92011346d63d3c30
+playwire.com, 1025119, RESELLER
+pubmatic.com, 164532, RESELLER, 5d62403b186f2
+pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
+pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
+rubiconproject.com, 25872, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25978, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26156, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26158, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26250, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26270, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26292, RESELLER, 0bfd66d529a55807
+smartadserver.com, 3172, RESELLER, 060d053dcf45cbf3
+ushareit.com, lcb555b3bc8667a09a, RESELLER
+video.unrulymedia.com, 158727213, RESELLER
+video.unrulymedia.com, 169764768, RESELLER
+video.unrulymedia.com, 324806554, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 6111915185540403805, RESELLER
+webeyemob.com, 80029, RESELLER
+xandr.com, 15840, RESELLER
+zmaticoo.com, 5135704, RESELLER
 ## AdsTxtSite app-ads.txt - Updated at: 2024-03-19
 #Updated 13th June
-#Appodeal
-appodeal.com, 246583, DIRECT
-#BidMachine
-bidmachine.io, 246583, DIRECT
-#AdMob
-#Replace the Publisher_ID below with your Admob Publisher ID
-google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
-#Meta-Audience
-#Replace the Business_ID below with your Meta Business ID
-facebook.com,Business_ID,RESELLER,c3e20eee3f780d68 
-#Add other networks if applicable
 
 
 #Resellers
